@@ -1,0 +1,172 @@
+<div class="theme-menu-bar js-menu-bar p-fix">
+            <a class="menu-label" href="#menu">
+                <span class="text">Menu</span>
+                <span class="close">
+                    <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <title>Times</title>
+                        <g id="1.-Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <g id="M-1-4-Menu-" transform="translate(-176.000000, -624.000000)" fill="currentColor">
+                                <g id="Vertical-Menu-/-Closed" transform="translate(0.000000, 606.000000)">
+                                    <polygon id="Fill-1" points="200 20.2659405 197.734059 18 188.05148 27.6825794 178.26594 18 176 20.2659405 185.682579 30.0514801 176 39.7340595 178.26594 42 188.05148 32.3174207 197.734059 42 200 39.7340595 190.317421 30.0514801"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                    </svg>
+                </span>
+            </a>
+            <!-- <a href="./en" class="logo logo-desktop">
+                <img src="./images/logo-white-2x.png" />
+            </a> -->
+
+            <div class="menu-card p-fix">
+                <a href="./en" class="logo logo-mobile">
+                    <img src="./images/logo-white-2x.png" />
+                </a>
+
+                <ul class="list-lg">
+                    <li><a href="./en" class="active">Home</a></li>
+                    <li><a href="./en/about/culture" class="">This is MPL</a></li>
+                    <li><a href="./en/commodities" class="">Commodities</a></li>
+                    <li><a href="./en/services" class="">Services</a></li>
+                    <li><a href="./en/liquids" class="">Liquids</a></li>
+                    <li><a href="./en/cases" class="">Cases</a></li>
+                    <li><a href="./en/locations" class="">Locations</a></li>
+                </ul>
+
+                <hr/>
+
+                <ul class="list-sm">
+                    <li><a href="./en/vacancies" class="">Join MPL</a></li>
+                    <li><a href="./en/contact" class="">Contact</a></li>
+                    <li><i class="fal fa-user"></i> <a href="./en/login" class="">Login</a></li>
+                </ul>
+
+                <hr/>
+
+                <!-- <ul class="theme-socials-list">
+                    <li><a class="linkedin link-default" href="https://www.linkedin.com/company/manuport-logistics" target="_blank">LinkedIn</a></li>
+                    <li><a class="instagram link-default" href="https://www.instagram.com/manuportlogisticsglobal" target="_blank">Instagram</a></li>
+                    <li><a class="facebook link-default" href="https://www.facebook.com/ManuportLogistics" target="_blank">Facebook</a></li>
+                </ul> -->
+
+                <!--
+                <ul class="list-xs">
+                    <li><a href="./en/privacy-statement" class="">GDPR Privacy Statement</a></li>
+                    <li><a href="./en/copyright-disclaimer" class="">Conditions &amp; Disclaimer</a></li>
+                </ul>
+                -->
+            </div>
+        </div>
+
+
+
+
+
+ <section class="scroll-section section-people">
+            <div class="section-wrapper">
+                <div class="panel panel-1">
+                    <h2 class="js-scroll-magic-cleanup">05 - People of Manuport</h2>
+
+                    <div class="theme-body-content">
+                        <h3 class="theme-heading-shadow js-scroll-magic-cleanup">Everything for the team!</h3>
+                        <p>We highly value every employee’s wellbeing and therefore continuously invest in a sound and stable community. Sharing our passion amongst like-minded people enforces our team every day.</p>
+                        <a href="./en/about/culture" class="theme-link with-icon-circle" id="btn_our_locations">
+                            <div class="theme-icon-circle">
+                                <svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                    <title>Large Icons / Arrow</title><desc>Created with Sketch Beta.</desc>
+                                    <g id="Large-Icons-/-Arrow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                        <polygon id="Fill-1" fill="#00358D" points="12.8982153 9 12 9.91720569 17.2387164 15.1559221 17.9722506 15.7917619 12 21.6663182 12.8982153 22.5835239 19.6900241 15.7917152"></polygon>
+                                    </g>
+                                </svg>                            <span></span>
+                            </div>
+                            <span class="link-underlined">Meet the team</span>
+                        </a>
+                    </div>
+                    <div class="theme-square-grid squares-large">
+                        <div class="grid-hor">
+                            <div class="square-item">
+                                <div class="picture" style="background-image: url(/images/content/picture-people-1.jpg);"></div>
+                            </div>
+                            <div class="square-item">
+                                <div class="instagram carousel carousel-fade" data-ride="carousel">
+                                    <div class="carousel-inner">
+                                        <div class="instagram-image carousel-item active" style="background-image: url(./imagecache/instagram_image/_1561554011.jpg);"></div>
+                                            <div class="instagram-image carousel-item" style="background-image: url(./imagecache/instagram_image/_1561532410.jpg);"></div>
+                                            <div class="instagram-image carousel-item" style="background-image: url(./imagecache/instagram_image/_1561287609.jpg);"></div>
+                                            <div class="instagram-image carousel-item" style="background-image: url(./imagecache/instagram_image/_1561122011.jpg);"></div>
+                                            <div class="instagram-image carousel-item" style="background-image: url(./imagecache/instagram_image/_1561035621.jpg);"></div>
+                                            <div class="instagram-image carousel-item" style="background-image: url(./imagecache/instagram_image/_1560970811.jpg);"></div>
+                                            <div class="instagram-image carousel-item" style="background-image: url(./imagecache/instagram_image/_1560535210.jpg);"></div>
+                                            <div class="instagram-image carousel-item" style="background-image: url(./imagecache/instagram_image/_1560502815.jpg);"></div>
+                                            <div class="instagram-image carousel-item" style="background-image: url(./imagecache/instagram_image/_1558119616.jpg);"></div>
+                                            <div class="instagram-image carousel-item" style="background-image: url(./imagecache/instagram_image/_1558018818.jpg);"></div>
+                                    </div>
+                                    <a class="instagram-banner" href="https://www.instagram.com/manuportlogisticsglobal" target="_blank">manuportlogisticsglobal</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-2">
+                    <div class="theme-square-grid squares-large mt-lg-auto">
+                        <div class="grid-ver">
+                            <div class="square-item d-none d-lg-block">
+                                <div class="picture" style="background-image: url(/images/content/picture-people-4.jpg);"></div>
+                            </div>
+                            <div class="square-item d-none d-lg-block">
+                                <div class="picture" style="background-image: url(/images/content/picture-people-3.jpg);"></div>
+                            </div>
+                        </div>
+                        <div class="grid-ver">
+                            <div class="square-item d-none d-lg-block">
+                                <div class="picture" style="background-image: url(/images/content/picture-people-5.jpg);"></div>
+                            </div>
+                            <div class="square-item d-none d-lg-block"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--  -->
+        <!-- PEOPLE - END -->
+        <!--  -->
+
+
+        <!--  -->
+        <!-- DIFFERENCE - START -->
+        <!--  -->
+        <section class="scroll-section section-difference">
+            <div class="theme-arrow js-scroll-magic-cleanup d-none"><span></span></div>
+
+            <div class="section-wrapper">
+                <div class="panel panel-1">
+                    <div class="picture" style="background-image: url(/images/content/picture-consultancy-2x.jpg);"></div>
+                    <h2 class="js-scroll-magic-cleanup">06 - We do things differently</h2>
+                    <div class="theme-body-content">
+                        <h3 class="theme-heading-shadow">Consultancy</h3>
+                        <p>Our staff is equipped with business know-how and offers an expert approach. We provide personalised advice and tailor-made concepts in response to your most challenging requests. No vague outcome, but specific and goal-oriented implementations. </p>
+                    </div>
+                </div>
+
+                <div class="panel panel-2">
+                    <div class="theme-body-content">
+                        <h3 class="theme-heading-shadow js-scroll-magic-cleanup">Innovation & Technology</h3>
+                        <p>What are your logistics challenges? How will our tech environment look in a few years? How do we exchange data? Have you thought about these questions? We are keen to challenge, learn and offer practical solutions.</p>
+                    </div>
+
+                    <div class="video-wrapper">
+                        <video src="./assets/img_moving.mp4" muted autoplay loop playsinline></video>
+                    </div>
+                </div>
+
+                <div class="panel panel-3">
+                    <div class="theme-body-content">
+                        <h3 class="theme-heading-shadow js-scroll-magic-cleanup">Liquids</h3>
+                        <p>Over the years, we have worked hard to acquire the knowledge we possess today. Shipping liquids in flexitanks, ISO tanks and packed formats has been our speciality for over 30 years. We manage liquids from production to customer, and know all the ins and outs. Nothing is impossible when you work with us.</p>
+                        <a href="./en/liquids" class="theme-link">
+                            <span class="link-underlined">Read more</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>

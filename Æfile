@@ -1,0 +1,10 @@
+#in
+
+BEGIN {
+    PREFIX = PWD #"/../_build"
+    app["name"] = "Stäubli"
+    app["icon_path"] = "./app_icon.png"
+    app["executable"] = "./main.sh"
+    app_bundle( app )
+    app_cp_resource( PWD"/src/" )
+}
