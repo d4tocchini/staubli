@@ -21424,8 +21424,11 @@ ul.theme-content-cards {
 }
 @media (min-width: 992px) {
   .page-home .section-locations .apple-scene {
-    margin: 8vh 0 auto;
-    width: 240px;
+    margin: 0;
+    margin-left: calc(100vw*2/9);
+    margin-right: calc(-100vw*4/36);
+    width: 250px;
+    z-index: 2;
   }
 }
 .page-home .section-locations .apple-scene:before {
@@ -25160,4 +25163,5 @@ line-height: calc(100vh*5/144); */
 }
 .theme-cta-section .cta-content-wrapper  {
   height: 100vh;
+  width: 100vw;
 }
