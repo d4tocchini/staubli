@@ -25149,7 +25149,7 @@ line-height: calc(100vh*5/144); */
 
 
 .theme-link.with-icon-circle span.link-underlined {
-  margin-left: 1em;
+  margin-left: calc(100vw*1/18);
   color: hsl(197, 16%, 86%);
 }
 
