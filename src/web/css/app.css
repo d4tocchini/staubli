@@ -25048,6 +25048,7 @@ section,
   max-height: 100vh !important;
 }
 body {
+  max-height: 100vh !important;
   overflow-y: hidden;
 }
 
